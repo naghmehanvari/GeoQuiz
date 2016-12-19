@@ -1,6 +1,6 @@
 # GeoQuiz
 Naghmeh Anvari
-naghmeh.anvari@sjsu.edu
+naghmeh.anvari@sjsu.edu \n
 Individual Assignment
 This project took 2-3 days to complete.
 Version: xcode 8.1, iOS10.1, Swift3, iPhone 7
