@@ -1,0 +1,29 @@
+Afghanistan,Kabul,34.51666667,69.183333#
+Albania,Tirane,41.31666667,19.816667#
+Algeria,Algiers,36.75,3.05#
+Argentina,Buenos Aires,-34.58333333,-58.666667#
+Armenia,Yerevan,40.16666667,44.5#
+Australia,Canberra,-35.26666667,149.133333#
+Austria,Vienna,48.2,16.366667#
+Azerbaijan,Baku,40.38333333,49.866667#
+Bangladesh,Dhaka,23.71666667,90.4#
+Belgium,Brussels,50.83333333,4.333333#
+Brazil,Brasilia,-15.78333333,-47.916667#
+Canada,Ottawa,45.41666667,-75.7#
+China,Beijing,39.91666667,116.383333#
+Egypt,Cairo,30.05,31.25#
+Finland,Helsinki,60.16666667,24.933333#
+France,Paris,48.86666667,2.333333#
+Germany,Berlin,52.51666667,13.4#
+Greece,Athens,37.98333333,23.733333#
+India,New Delhi,28.6,77.2#
+Iran,Tehran,35.7,51.416667#
+Iraq,Baghdad,33.33333333,44.4#
+Italy,Rome,41.9,12.483333#
+Mexico,Mexico,19.43333333,-99.133333#
+Portugal,Lisbon,38.71666667,-9.133333#
+Puerto Rico,San Juan,18.46666667,-66.116667#
+Spain,Madrid,40.4,-3.683333#
+Sweden,Stockholm,59.33333333,18.05#
+Turkey,Ankara,39.93333333,32.866667#
+United States of America,Washington DC,38.883333,-77
